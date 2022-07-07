@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "convertor")(type "KiCad")(uri "${KIPRJMOD}/convertor.kicad_sym")(options "")(descr ""))
+)
